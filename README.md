@@ -1,2 +1,4 @@
 # hello-world
-testing repository
+Hello all,
+
+I am happy to start my first github project.
